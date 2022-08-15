@@ -1,4 +1,4 @@
-describe.skip("Overlapped Element", () => {
+describe("Overlapped Element", () => {
   beforeEach(async () => {
     //Load Homepage
     await browser.url("https://uitestingplayground.com/");

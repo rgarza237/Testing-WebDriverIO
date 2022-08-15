@@ -1,4 +1,4 @@
-describe.skip('Non-Breaking Space', ()=>{
+describe('Non-Breaking Space', ()=>{
     beforeEach(async()=>{
         //Load Homepage
         await browser.url("https://uitestingplayground.com/")

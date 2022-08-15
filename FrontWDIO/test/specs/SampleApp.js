@@ -1,4 +1,4 @@
-describe.skip('Sample App', () =>{
+describe('Sample App', () =>{
     beforeEach(async()=>{
         //Load Homepage
         await browser.url("https://uitestingplayground.com/")

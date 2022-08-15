@@ -1,4 +1,4 @@
-describe.skip('Class Attribute', ()=>{
+describe('Class Attribute', ()=>{
     beforeEach(async()=>{
         //Load Homepage
         await browser.url("https://uitestingplayground.com/")

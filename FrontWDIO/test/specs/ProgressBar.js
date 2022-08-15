@@ -1,4 +1,4 @@
-describe.skip('Progress Bar', ()=>{
+describe('Progress Bar', ()=>{
     beforeEach(async()=>{
         //Load Homepage
         await browser.url("https://uitestingplayground.com/")

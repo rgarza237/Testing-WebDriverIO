@@ -1,4 +1,4 @@
-describe.skip('AJAX Data', ()=>{
+describe('AJAX Data', ()=>{
     beforeEach(async()=>{
         //Load Homepage
         await browser.url("https://uitestingplayground.com/")

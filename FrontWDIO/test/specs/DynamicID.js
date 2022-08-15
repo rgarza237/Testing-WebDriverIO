@@ -1,4 +1,4 @@
-describe.skip(" Dynamic ID", ()=>{
+describe(" Dynamic ID", ()=>{
     beforeEach(async()=>{
         //Load Homepage
         await browser.url("https://uitestingplayground.com/")

@@ -1,4 +1,4 @@
-describe.skip('Click', ()=>{
+describe('Click', ()=>{
     beforeEach(async()=>{
         //Load Homepage
         await browser.url("https://uitestingplayground.com/")

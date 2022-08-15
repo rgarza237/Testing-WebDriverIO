@@ -1,7 +1,7 @@
 # To Run the tests enter to the carpet following carpet
 ## Webpage 
 > Enter to the folder FrontWDIO
-> select the file you want to test and take out the .skip at the beggining of each test
+> select the file you want to test and take out the  at the beggining of each test
 > to run the test run the command (npm wdio)
 
 ## API

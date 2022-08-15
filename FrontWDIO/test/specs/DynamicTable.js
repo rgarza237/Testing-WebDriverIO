@@ -1,4 +1,4 @@
-describe.skip('Dynamic Table', ()=>{
+describe('Dynamic Table', ()=>{
     beforeEach(async()=>{
         //Load Homepage
         await browser.url("https://uitestingplayground.com/")

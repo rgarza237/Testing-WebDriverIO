@@ -1,4 +1,4 @@
-describe.skip('Scroll Bar', ()=>{
+describe('Scroll Bar', ()=>{
     beforeEach(async()=>{
         //Load Homepage
         await browser.url("https://uitestingplayground.com/")

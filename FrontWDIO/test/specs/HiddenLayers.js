@@ -1,4 +1,4 @@
-describe.skip('Hidden Layers', ()=>{
+describe('Hidden Layers', ()=>{
     beforeEach(async()=>{
         //Load Homepage
         await browser.url("https://uitestingplayground.com/")

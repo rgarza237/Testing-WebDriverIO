@@ -1,4 +1,4 @@
-describe.skip('Load Delay', ()=>{
+describe('Load Delay', ()=>{
     beforeEach(async()=>{
         //Load Homepage
         await browser.url("https://uitestingplayground.com/")

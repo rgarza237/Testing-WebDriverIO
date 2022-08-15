@@ -1,4 +1,4 @@
-describe.skip('Verify Text', ()=>{
+describe('Verify Text', ()=>{
     beforeEach(async()=>{
         //Load Homepage
         await browser.url("https://uitestingplayground.com/")
